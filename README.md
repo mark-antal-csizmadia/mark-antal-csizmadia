@@ -33,8 +33,9 @@ My goal is to use my knowledge of machine learning, deep learning, and electroni
 </a>
 
 ## Connect With Me
-[![](https://img.shields.io/badge/LinkedIn-Say%20hi!-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/mark-antal-csizmadia/)
-
+<a href="https://www.linkedin.com/in/mark-antal-csizmadia/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-Say%20hi!-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a" />
+</a>
 <a href="mailto:mark.antal.csizmadia@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-Say%20hi!-informational?style=flat&logo=Gmail&logoColor=white&color=2bbc8a" />
 </a>
