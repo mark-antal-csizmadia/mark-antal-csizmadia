@@ -20,6 +20,8 @@ My goal is to use my knowledge of machine learning, deep learning, and electroni
 ![](https://img.shields.io/badge/Keras-ML/DL-informational?style=flat&logo=Keras&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Git-VC-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Google%20Cloud%20Platform-Cloud-informational?style=flat&logo=google%20cloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Linux-OS-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/LaTeX-Writing-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
 
@@ -28,4 +30,11 @@ My goal is to use my knowledge of machine learning, deep learning, and electroni
 </a>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-antal-csizmadia&?&layout=compact&title_color=2bbc8a" />
+</a>
+
+## Connect With Me
+[![](https://img.shields.io/badge/LinkedIn-Say%20hi!-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/mark-antal-csizmadia/)
+
+<a href="mailto:mark.antal.csizmadia@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-Say%20hi!-informational?style=flat&logo=Gmail&logoColor=white&color=2bbc8a" />
 </a>
