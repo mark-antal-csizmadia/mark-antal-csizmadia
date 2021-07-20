@@ -5,10 +5,10 @@ My goal is to use my knowledge of machine learning, deep learning, and electroni
 
 ## 🙏 Projects I Am Proud Of
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=nn-blocks)](https://github.com/mark-antal-csizmadia/nn-blocks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=DD2434-VAE-Project)](https://github.com/mark-antal-csizmadia/DD2434-VAE-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogorPinheiro&repo=Cool_GANs_Fake_Celebrities)](https://github.com/DiogorPinheiro/Cool_GANs_Fake_Celebrities)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=svm)](https://github.com/mark-antal-csizmadia/svm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=nn-blocks&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/nn-blocks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=DD2434-VAE-Project&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/DD2434-VAE-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DiogorPinheiro&repo=Cool_GANs_Fake_Celebrities&title_color=2bbc8a)](https://github.com/DiogorPinheiro/Cool_GANs_Fake_Celebrities)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=svm&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/svm)
 
 
 ## 🔧 What I Like To Use
