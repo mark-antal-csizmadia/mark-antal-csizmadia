@@ -14,13 +14,23 @@ My goal is to use my knowledge of machine learning, deep learning, and electroni
 ## 🔧 What I Like To Use
 
 ![](https://img.shields.io/badge/Python-Code-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Jupyter-Code-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/C++-Code-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/TensorFlow-ML/DL-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Keras-ML/DL-informational?style=flat&logo=Keras&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Jupyter-Tool-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Anaconda-Tool-informational?style=flat&logo=Anaconda&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Git-VC-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Google%20Cloud%20Platform-Cloud-informational?style=flat&logo=google%20cloud&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Linux-OS-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/PyCharm-IDE-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-IDE-informational?style=flat&logo=vsco&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/LaTeX-Writing-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
