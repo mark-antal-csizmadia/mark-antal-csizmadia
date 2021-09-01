@@ -12,9 +12,13 @@ My goal is to use my knowledge of machine learning, deep learning, and electroni
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=pca-mds-isomap&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/pca-mds-isomap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=som&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/som)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=svm&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/svm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=variational-inference&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/variational-inference)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=hopfield-networks&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/hopfield-networks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=slp-mlp&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/slp-mlp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=hopfield-networks&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/hopfield-networks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=variational-inference&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/variational-inference)
+
+
+
+variational-inference-gmm
 
 
 
