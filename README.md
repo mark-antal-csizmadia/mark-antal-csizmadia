@@ -4,7 +4,7 @@ I am _Márk Antal Csizmadia_, a software engineer at [Ecobloom](https://ecobloom
 
 My goal is to use my knowledge of machine learning, deep learning, IoT, and cloud computing to work on solving exciting problems and to positively influence our future. While doing so, I enjoy learning new technologies and tools, and getting to know like-minded, motivated people on the way.
 
-## 🙏 Projects I Am Proud Of
+## 🙏 Selected Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=dcgan-fake-faces&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/dcgan-fake-faces)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=nn-blocks&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/nn-blocks)
@@ -12,6 +12,10 @@ My goal is to use my knowledge of machine learning, deep learning, IoT, and clou
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=pca-mds-isomap&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/pca-mds-isomap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=som&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/som)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=svm&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/svm)
+
+
+## 🙏 Other Projects
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=rbm_dbn&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/rbm_dbn)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=hmm&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/hmm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=slp-mlp&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/slp-mlp)
