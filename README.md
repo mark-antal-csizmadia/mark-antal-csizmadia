@@ -14,7 +14,7 @@ My goal is to use my knowledge of machine learning, deep learning, IoT, and clou
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=svm&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/svm)
 
 
-## 🙏 Other Projects
+## 👐 Other Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=rbm_dbn&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/rbm_dbn)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=hmm&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/hmm)
