@@ -18,14 +18,6 @@ My goal is to use my knowledge of machine learning, deep learning, and electroni
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=variational-inference-gmm&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/variational-inference-gmm)
 
 
-
-variational-inference-gmm
-
-
-
-hopfield-networks
-
-
 ## 🔧 What I Like To Use
 
 ![](https://img.shields.io/badge/Python-Code-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
