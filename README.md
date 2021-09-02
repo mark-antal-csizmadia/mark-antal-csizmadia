@@ -2,7 +2,7 @@
 
 I am _Márk Antal Csizmadia_, a software engineer at [Ecobloom](https://ecobloom.se/) in Stockholm, Sweden, and a Master of Science degree student in Machine Learning at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden. I graduated in 2020 from the [University of Manchester](https://www.manchester.ac.uk/) with a Bachelor of Engineering in Electronic Engineering.
 
-My goal is to use my knowledge of machine learning, deep learning, and electronics to work on solving exciting problems and to positively influence our future. While doing so, I enjoy learning new technologies and tools, and getting to know like-minded, motivated people on the way.
+My goal is to use my knowledge of machine learning, deep learning, IoT, and cloud computing to work on solving exciting problems and to positively influence our future. While doing so, I enjoy learning new technologies and tools, and getting to know like-minded, motivated people on the way.
 
 ## 🙏 Projects I Am Proud Of
 
