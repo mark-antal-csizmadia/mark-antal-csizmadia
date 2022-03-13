@@ -34,6 +34,8 @@ My goal is to use my knowledge of machine learning, deep learning, IoT, and clou
 ![](https://img.shields.io/badge/PyTorch-ml/dl-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/TensorFlow-ml/dl-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Keras-ml/dl-informational?style=flat&logo=Keras&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Ray-ml/dl/hyperparams-informational?style=flat&logo=Ray&logoColor=white&color=2bbc8a)
+
 
 ![](https://img.shields.io/badge/NumPy-lib-informational?style=flat&logo=NumPy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Pandas-lib-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
