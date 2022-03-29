@@ -35,13 +35,14 @@ My goal is to use my knowledge of machine learning, deep learning, IoT, and clou
 ![](https://img.shields.io/badge/TensorFlow-ml/dl-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Keras-ml/dl-informational?style=flat&logo=Keras&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Ray-ml/dl/hyperparams-informational?style=flat&logo=Ray&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TensorBoard-ml/dl/viz-informational?style=flat&logo=TensorBoard&logoColor=white&color=2bbc8a)
 
 
 ![](https://img.shields.io/badge/NumPy-lib-informational?style=flat&logo=NumPy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Pandas-lib-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Matplotlib-lib-informational?style=flat&logo=Matplotlib&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SciPy-lib-informational?style=flat&logo=SciPy&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Pillow-lib-informational?style=flat&logo=Pillow&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Jupyter-tool-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Anaconda-tool-informational?style=flat&logo=Anaconda&logoColor=white&color=2bbc8a)
