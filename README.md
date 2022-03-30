@@ -6,7 +6,6 @@ My goal is to use my knowledge of machine learning, deep learning, IoT, and clou
 
 ## 🙏 Selected Projects
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=re-sln&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/re-sln)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=dcgan-fake-faces&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/dcgan-fake-faces)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=nn-blocks&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/nn-blocks)
@@ -26,7 +25,7 @@ My goal is to use my knowledge of machine learning, deep learning, IoT, and clou
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=variational-inference-gmm&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/variational-inference-gmm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=spectral-clustering&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/spectral-clustering)
 
-## 🔧 What I Like To Use
+## 🔧 Tech Stack
 
 ![](https://img.shields.io/badge/Python-code-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/C++-code-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
@@ -59,7 +58,7 @@ My goal is to use my knowledge of machine learning, deep learning, IoT, and clou
 
 ![](https://img.shields.io/badge/LaTeX-writing-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)
 
-## 📈 GitHub Stats
+## 📈 Stats
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mark-antal-csizmadia&count_private=true&show_icons=true&title_color=2bbc8a&icon_color=2bbc8a" />
@@ -72,7 +71,7 @@ My goal is to use my knowledge of machine learning, deep learning, IoT, and clou
 
 I built and published an annotated object detection dataset titled [Object Detection: Batteries, Dice, and Toy Cars](https://www.kaggle.com/markcsizmadia/object-detection-batteries-dices-and-toy-cars). The annotated objects in the dataset include six-sided board game dice, AAA, AA, and 9 V batteries, toy cars, spoons, highlighters,  and tea candles. The dataset was built through different means that included scraping images off the Internet with the [Bing Image Search API](https://www.microsoft.com/en-us/bing/apis/bing-image-search-api), remixing [existing datasets](https://public.roboflow.com/object-detection/dice) from the public domain, extracting video frames from videos downloaded from YouTube in line with its [fair-use policy](https://support.google.com/youtube/answer/9783148?hl=en), and manually taking photographs. There are in overall 1644 images in the dataset that contain 2815 objects. I shared a [starter notebook](https://www.kaggle.com/markcsizmadia/explore-the-dataset) for exploring the dataset on Kaggle. The dataset Usability Score is 8.8 / 10.0.
 
-## 📨 Connect With Me
+## 📨 Contact
 <a href="https://www.linkedin.com/in/mark-antal-csizmadia/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-Say%20hi!-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a" />
 </a>
