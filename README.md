@@ -48,6 +48,7 @@ My goal is to use my knowledge of machine learning, deep learning, IoT, and clou
 ![](https://img.shields.io/badge/Anaconda-tool-informational?style=flat&logo=Anaconda&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Git-vcs-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GitHub-vcs-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Google%20Cloud%20Platform-cloud-informational?style=flat&logo=google%20cloud&logoColor=white&color=2bbc8a)
 
