@@ -1,4 +1,5 @@
-# 🙌 Hello there!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there!
+
 
 I am _Márk Antal Csizmadia_, a machine learning engineer at [Ecobloom](https://ecobloom.se/) in Stockholm, Sweden, and a Master of Science degree student in Machine Learning at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden. I graduated in 2020 from the [University of Manchester](https://www.manchester.ac.uk/) with a Bachelor of Engineering in Electronic Engineering.
 
