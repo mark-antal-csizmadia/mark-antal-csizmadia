@@ -1,8 +1,18 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> Hello there!
 
-![](https://visitor-badge.glitch.me/badge?page_id=mark-antal-csizmadia.mark-antal-csizmadia)
-
-I am _Márk Antal Csizmadia_, a machine learning engineer at [Ecobloom](https://ecobloom.se/) in Stockholm, Sweden <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/>, and a Master of Science degree student in Machine Learning at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/>. I graduated in 2020 from the [University of Manchester](https://www.manchester.ac.uk/) <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> with a Bachelor of Engineering in Electronic Engineering. I'm originally from Budapest, Hungary <img src="https://cdn-icons-png.flaticon.com/512/197/197584.png" width="13"/>.
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mark-antal-csizmadia.mark-antal-csizmadia">
+  <a href="https://www.kth.se/en/studies/master/machine-learning/msc-machine-learning-1.48533">
+    <img src="https://img.shields.io/badge/MSc%20Machine%20Learning%20-KTH%20Royal%20Institute%20of%20Technology-2bbc8a"
+         alt="MSc Embedded Systems Engineering">
+  </a>
+  <a href="https://www.manchester.ac.uk/study/undergraduate/courses/2022/03364/beng-electrical-and-electronic-engineering-with-industrial-experience/">
+    <img src="https://img.shields.io/badge/BEng%20Electrical%20and%20Electronic%20Engineering-University%20of%20Manchester-2bbc8a"
+         alt="BSc Electrical and Electronic Engineering">
+  </a>
+</p>
+    
+I am _Márk Antal Csizmadia_, a machine learning engineer at [Ecobloom](https://ecobloom.se/) and a Master of Science degree student in Machine Learning at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/>. I graduated in 2020 from the [University of Manchester](https://www.manchester.ac.uk/) <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> with a Bachelor of Engineering in Electronic Engineering. I'm originally from Budapest, Hungary <img src="https://cdn-icons-png.flaticon.com/512/197/197584.png" width="13"/>.
 
 My goal is to use my knowledge of machine learning, deep learning, IoT, and cloud computing to work on solving exciting problems and to positively influence our future. While doing so, I enjoy learning new technologies and tools, and getting to know like-minded, motivated people on the way.
 
