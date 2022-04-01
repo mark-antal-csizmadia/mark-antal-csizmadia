@@ -1,7 +1,8 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> Hello there!
 
+![](https://visitor-badge.glitch.me/badge?page_id=mark-antal-csizmadia.mark-antal-csizmadia)
 
-I am _Márk Antal Csizmadia_, a machine learning engineer at [Ecobloom](https://ecobloom.se/) in Stockholm, Sweden, and a Master of Science degree student in Machine Learning at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden. I graduated in 2020 from the [University of Manchester](https://www.manchester.ac.uk/) with a Bachelor of Engineering in Electronic Engineering.
+I am _Márk Antal Csizmadia_, a machine learning engineer at [Ecobloom](https://ecobloom.se/) in Stockholm, Sweden <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/>, and a Master of Science degree student in Machine Learning at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/>. I graduated in 2020 from the [University of Manchester](https://www.manchester.ac.uk/) <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> with a Bachelor of Engineering in Electronic Engineering. I'm originally from Budapest, Hungary <img src="https://cdn-icons-png.flaticon.com/512/197/197584.png" width="13"/>.
 
 My goal is to use my knowledge of machine learning, deep learning, IoT, and cloud computing to work on solving exciting problems and to positively influence our future. While doing so, I enjoy learning new technologies and tools, and getting to know like-minded, motivated people on the way.
 
@@ -38,10 +39,11 @@ My goal is to use my knowledge of machine learning, deep learning, IoT, and clou
 ![](https://img.shields.io/badge/TensorBoard-ml/dl/viz-informational?style=flat&logo=TensorBoard&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CVAT-ml/dl/annotation-informational?style=flat&logo=cvat&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Git-vcs/ci/cd-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/GitHub-vcs/ci/cd-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/PyTest-ci/cd-informational?style=flat&logo=PyTest&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CodeCov-ci/cd-informational?style=flat&logo=CodeCov&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Git-vcs-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GitHub-vcs-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GitHubActions-ci/cd-informational?style=flat&logo=GitHubActions&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PyTest-test-informational?style=flat&logo=PyTest&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CodeCov-cov-informational?style=flat&logo=CodeCov&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/NumPy-lib-informational?style=flat&logo=NumPy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Pandas-lib-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
