@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="10px"> Hello there!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> Hello there!
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=mark-antal-csizmadia.mark-antal-csizmadia">
