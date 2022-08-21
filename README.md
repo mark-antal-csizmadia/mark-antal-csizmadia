@@ -40,6 +40,7 @@ My goal is to use my knowledge of machine learning, deep learning, IoT, and clou
 ## 🔧 Tech Stack
 
 ![](https://img.shields.io/badge/Python-code-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SQL-code-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/C++-code-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/PyTorch-ml/dl-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
