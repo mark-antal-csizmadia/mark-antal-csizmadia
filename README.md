@@ -12,7 +12,7 @@
   </a>
 </p>
     
-I am _Márk Antal Csizmadia_, a machine learning engineer at [Sellpy](https://www.sellpy.com/) and a Master of Science degree student in Machine Learning at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/>. I graduated in 2020 from the [University of Manchester](https://www.manchester.ac.uk/) <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> with a Bachelor of Engineering in Electronic Engineering. I'm originally from Budapest, Hungary <img src="https://cdn-icons-png.flaticon.com/512/197/197584.png" width="13"/>.
+I am _Márk Antal Csizmadia_, a machine learning engineer at [Sellpy](https://www.sellpy.com/)> I graduated in 2022 at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> with a Master of Science degree in Machine Learning, and in 2020 from the [University of Manchester](https://www.manchester.ac.uk/) <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> with a Bachelor of Engineering in Electronic Engineering degree. I'm originally from Budapest, Hungary <img src="https://cdn-icons-png.flaticon.com/512/197/197584.png" width="13"/>.
 
 My goal is to use my knowledge of machine learning, deep learning, IoT, and cloud computing to work on solving exciting problems and to positively influence our future. While doing so, I enjoy learning new technologies and tools, and getting to know like-minded, motivated people on the way.
 
