@@ -1,22 +1,6 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"> Hello there!
+sharing thoughts about things I build, and ml/ai.
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mark-antal-csizmadia.mark-antal-csizmadia">
-  <a href="https://www.kth.se/en/studies/master/machine-learning/msc-machine-learning-1.48533">
-    <img src="https://img.shields.io/badge/MSc%20Machine%20Learning%20-KTH%20Royal%20Institute%20of%20Technology-2bbc8a"
-         alt="MSc Embedded Systems Engineering">
-  </a>
-  <a href="https://www.manchester.ac.uk/study/undergraduate/courses/2022/03364/beng-electrical-and-electronic-engineering-with-industrial-experience/">
-    <img src="https://img.shields.io/badge/BEng%20Electrical%20and%20Electronic%20Engineering-University%20of%20Manchester-2bbc8a"
-         alt="BSc Electrical and Electronic Engineering">
-  </a>
-</p>
-    
-I am _Márk Antal Csizmadia_, a machine learning engineer at [Sellpy](https://www.sellpy.com/). I graduated in 2022 at [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> with a Master of Science degree in Machine Learning, and in 2020 from the [University of Manchester](https://www.manchester.ac.uk/) <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> with a Bachelor of Engineering in Electronic Engineering degree. I'm originally from Budapest, Hungary <img src="https://cdn-icons-png.flaticon.com/512/197/197584.png" width="13"/>.
-
-My goal is to use my knowledge of machine learning, deep learning, IoT, and cloud computing to work on solving exciting problems and to positively influence our future. While doing so, I enjoy learning new technologies and tools, and getting to know like-minded, motivated people on the way.
-
-## 🙏 Selected Projects
+### small builds
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=re-sln&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/re-sln)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=dcgan-fake-faces&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/dcgan-fake-faces)
@@ -26,10 +10,6 @@ My goal is to use my knowledge of machine learning, deep learning, IoT, and clou
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=som&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/som)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=svm&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/svm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=slp-mlp&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/slp-mlp)
-
-
-## 👐 Other Projects
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=rbm_dbn&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/rbm_dbn)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=hmm&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/hmm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=hopfield-networks&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/hopfield-networks)
@@ -37,61 +17,6 @@ My goal is to use my knowledge of machine learning, deep learning, IoT, and clou
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=variational-inference-gmm&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/variational-inference-gmm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=spectral-clustering&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/spectral-clustering)
 
-## 🔧 Tech Stack
+### misc builds
 
-![](https://img.shields.io/badge/Python-code-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SQL-code-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Spark-code-informational?style=flat&logo=spark&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/C++-code-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/PyTorch-ml/dl-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/TensorFlow-ml/dl-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Keras-ml/dl-informational?style=flat&logo=Keras&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Ray-ml/dl/hyperparams-informational?style=flat&logo=Ray&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/TensorBoard-ml/dl/viz-informational?style=flat&logo=TensorBoard&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CVAT-ml/dl/annotation-informational?style=flat&logo=cvat&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Git-vcs-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/GitHub-vcs-informational?style=flat&logo=GitHub&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/GitHubActions-ci/cd-informational?style=flat&logo=GitHubActions&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/PyTest-test-informational?style=flat&logo=PyTest&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CodeCov-cov-informational?style=flat&logo=CodeCov&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/NumPy-lib-informational?style=flat&logo=NumPy&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Pandas-lib-informational?style=flat&logo=Pandas&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Matplotlib-lib-informational?style=flat&logo=Matplotlib&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SciPy-lib-informational?style=flat&logo=SciPy&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Pillow-lib-informational?style=flat&logo=Pillow&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Jupyter-tool-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Anaconda-tool-informational?style=flat&logo=Anaconda&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Google%20Cloud%20Platform-cloud-informational?style=flat&logo=google%20cloud&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Linux-os-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/PyCharm-ide-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Visual%20Studio%20Code-ide-informational?style=flat&logo=vsco&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/LaTeX-writing-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)
-
-## 📈 Stats
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mark-antal-csizmadia&count_private=true&show_icons=true&title_color=2bbc8a&icon_color=2bbc8a" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-antal-csizmadia&?&layout=compact&title_color=2bbc8a" />
-</a>
-
-## 💯 My Dataset
-
-I built and published an annotated object detection dataset titled [Object Detection: Batteries, Dice, and Toy Cars](https://www.kaggle.com/markcsizmadia/object-detection-batteries-dices-and-toy-cars). The annotated objects in the dataset include six-sided board game dice, AAA, AA, and 9 V batteries, toy cars, spoons, highlighters,  and tea candles. The dataset was built through different means that included scraping images off the Internet with the [Bing Image Search API](https://www.microsoft.com/en-us/bing/apis/bing-image-search-api), remixing [existing datasets](https://public.roboflow.com/object-detection/dice) from the public domain, extracting video frames from videos downloaded from YouTube in line with its [fair-use policy](https://support.google.com/youtube/answer/9783148?hl=en), and manually taking photographs. There are in overall 1644 images in the dataset that contain 2815 objects. I shared a [starter notebook](https://www.kaggle.com/markcsizmadia/explore-the-dataset) for exploring the dataset on Kaggle. The dataset Usability Score is 8.8 / 10.0.
-
-## 📨 Contact
-<a href="https://www.linkedin.com/in/mark-antal-csizmadia/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-Say%20hi!-informational?style=flat&logo=LinkedIn&logoColor=white&color=2bbc8a" />
-</a>
-<a href="mailto:mark.antal.csizmadia@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-Say%20hi!-informational?style=flat&logo=Gmail&logoColor=white&color=2bbc8a" />
-</a>
+[once I built a dataset for object detection - it's on Kaggle](https://www.kaggle.com/markcsizmadia/object-detection-batteries-dices-and-toy-cars)
