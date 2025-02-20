@@ -3,7 +3,7 @@ sharing thoughts about things I build, and ml/ai.
 ### small builds
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=re-sln&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/re-sln)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=tsboi&title_color=2bbc8a)]([[https://github.com/mark-antal-csizmadia/re-sln](https://github.com/mark-antal-csizmadia/tsboi)](https://github.com/mark-antal-csizmadia/tsboi))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=tsboi&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/tsboi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=dcgan-fake-faces&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/dcgan-fake-faces)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=nn-blocks&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/nn-blocks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark-antal-csizmadia&repo=DD2434-VAE-Project&title_color=2bbc8a)](https://github.com/mark-antal-csizmadia/DD2434-VAE-Project)
